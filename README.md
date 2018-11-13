@@ -38,10 +38,10 @@ Vi hoppas ha givit er mersmak,
 12. Badstrand
 13. Brunnsviken med plogad skridskobana vintertid och kanotuthyrning sommartid
 
---
+---
 
 ### Nykomlingar
 
-1. Naturhistoriska Riksmuseet
-2. Bockudden
-1. Glassfabriken
+1. [Naturhistoriska Riksmuseet](http://www.nrm.se/)
+2. [Bockholmen](http://bockholmen.com/)
+3. [Nordic Fauna Ice Cream](http://www.nordicfauna.se/) i Kräftriket
